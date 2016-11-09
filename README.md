@@ -10,7 +10,7 @@ For example, you write a document with a small device like a smartphone, in the 
 This platform sends files and statuses of applications to another device and restart your application in another device.
 
 ## Demo
-See ![Demo](https://www.ssn.nitech.ac.jp/wp-content/uploads/2016/11/Light_Demo.mp4 "Demo")
+See [Demo](https://www.ssn.nitech.ac.jp/研究内容/migrator/#demo)
 
 ## Requirement
 At least two devices with Bluetooth.
