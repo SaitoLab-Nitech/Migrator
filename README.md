@@ -10,7 +10,7 @@ For example, you write a document with a small device like a smartphone, in the 
 This platform sends files and statuses of applications to another device and restart your application in another device.
 
 ## Demo
-See []()
+See ![Demo](https://www.ssn.nitech.ac.jp/wp-content/uploads/2016/11/Light_Demo.mp4 "Demo")
 
 ## Requirement
 At least two devices with Bluetooth.
@@ -32,4 +32,4 @@ These methods is defined in `Activity.java`, so developers can use these methods
 If they are called, the platform executes migration immediately.
 
 ## Document
-WANC:
+WANC: Kohei Sato, Koichi Mouri and Shoichi Saito: "Design and implementation of an application state migration mechanism between Android devices",  7th International Workshop on Advances in Networking and Computing (WANC), to appear (2016.11).
